@@ -1,9 +1,4 @@
 class AustinK
+    attr_reader :name, :ability
 
-
-
-
-
-
-    #This is all a FARCE. The initialize doesn't even exist
 end
